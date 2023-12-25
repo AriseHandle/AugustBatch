@@ -88,7 +88,5 @@ public class FaceBookLoginTest extends BaseTest {
 	@AfterTest
 	public void publishReports() {
 		extentReports.flush();
-	}
-	
-	
+	}	
 }

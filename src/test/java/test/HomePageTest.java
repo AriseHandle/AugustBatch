@@ -11,9 +11,5 @@ public class HomePageTest extends BaseTest {
 	public void openBrowser() {
 		driver=Browser.openChrome("https://www.facebook.com");
 	}
-	
-	@Test
-	public void test1() {
-		System.out.println("test");
-	}
+
 }

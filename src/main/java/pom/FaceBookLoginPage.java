@@ -25,6 +25,10 @@ public class FaceBookLoginPage {
 		PageFactory.initElements(driver,this );
 	}
 	
+	public void facebook1()
+	{
+		System.out.print("facebook");
+	}
 	public void enterEmailId(String mailId) {
 		email.sendKeys(mailId);
 	}

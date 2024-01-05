@@ -25,7 +25,7 @@ public class FaceBookLoginPage {
 		PageFactory.initElements(driver,this );
 	}
 	
-	public void facebook1()
+	public void facebook11()
 	{
 		System.out.print("facebook");
 	}
